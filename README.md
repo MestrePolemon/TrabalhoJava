@@ -27,4 +27,6 @@ O Copilot foi utilizado para a inclusão dos itens e pessoas, além de nos ajuda
 
 Buscar: O cliente não tem acesso aos cadastros de pessoas. Escolha qual tipo de produto deseja buscar. Após escolher, será solicitado o ID do produto. Informando o ID corretamente, serão exibidos os dados do produto buscado.
 USO DE IA
-O Copilot foi utilizado para a inclusão dos itens e pessoas, além de nos ajudar a validar o CPF do cadastro de pessoa.
+O Copilot foi utilizado para a inclusão dos itens e pessoas, além de nos ajudar a validar o CPF do cadastro de pessoa, ele tambem foi utilizado para ajustar o erro na função remover, o Chat GPT foi utilizado para corrigir o portugues da documentação.
+
+Referencia: Codigo SitemaAcademia feito pelo professor.
