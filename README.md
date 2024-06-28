@@ -11,6 +11,7 @@ FUNCIONÁRIO:
 4. Remover
 5. Vender
 6. Voltar
+   
 Adicionar: Selecione se deseja adicionar uma nova pessoa ou um novo item. Ao selecionar uma nova pessoa, você poderá escolher adicionar Gerente, Atendente ou Cliente. Caso opte por adicionar um produto, será perguntado se deseja adicionar um Console, Peça ou Jogo.
 Visualizar: Selecione se deseja visualizar pessoas ou produtos. Ao escolher visualizar pessoas, será perguntado se deseja visualizar Gerente, Atendente ou Cliente. O sistema exibirá na tela todos os dados das pessoas do tipo selecionado. Ao escolher visualizar produtos, será perguntado qual tipo de produto deseja visualizar: Peças, Consoles ou Jogos. O sistema exibirá todos os dados dos produtos do tipo selecionado.
 Buscar: Selecione se deseja buscar pessoas ou produtos. Ao escolher buscar pessoas, será perguntado se deseja buscar Funcionários ou Clientes. Para clientes, será solicitado o CPF do cliente que deseja buscar. Se o CPF estiver correto, os dados do cliente serão retornados. Para funcionários, será solicitado o CPF do funcionário que deseja buscar. Se o CPF estiver correto, o cadastro do funcionário será retornado.
@@ -20,6 +21,7 @@ CLIENTE:
 1. Visualizar
 2. Buscar
 3. Voltar
+   
 Visualizar: O cliente, diferentemente do funcionário, não pode acessar os cadastros de pessoas, apenas os de produtos. Informe qual tipo de produto deseja visualizar: Peças, Consoles ou Jogos. O sistema exibirá todos os produtos do tipo informado.
 Buscar: O cliente não tem acesso aos cadastros de pessoas. Escolha qual tipo de produto deseja buscar. Após escolher, será solicitado o ID do produto. Informando o ID corretamente, serão exibidos os dados do produto buscado.
 USO DE IA
